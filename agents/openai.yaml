@@ -1,0 +1,3 @@
+interface:
+  display_name: "Upscale ảnh"
+  short_description: "Nâng nét ảnh và xuất file đúng kích thước in"
